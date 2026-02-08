@@ -1,0 +1,906 @@
+[
+  {
+    "brand": "haval",
+    "brandDisplay": "Haval",
+    "model": "Jolion",
+    "slug": "haval-jolion",
+    "tagline": "SUV urbano inteligente con tecnología de punta y máximo confort",
+    "category": "suv",
+    "type": "combustion",
+    "year": 2025,
+    "priceUsd": null,
+    "specs": {
+      "engine": "Turbo 4 cilindros 16V",
+      "power": "141 HP @ 5.500-6.000 RPM",
+      "torque": "210 Nm @ 2.000-4.500 RPM",
+      "transmission": "Automática DCT 7 vel.",
+      "traction": "2WD",
+      "dimensions": {
+        "length": 4472,
+        "width": 1841,
+        "height": 1619
+      },
+      "wheelbase": 2700,
+      "fuelTank": 55,
+      "weight": 1626,
+      "tires": "225/55 R18"
+    },
+    "highlightFeatures": [
+      "Pantalla táctil 12.3\" con Apple CarPlay + Android Auto",
+      "Techo panorámico eléctrico",
+      "Cámara 360° + Estacionamiento asistido",
+      "Crucero adaptativo ACC + 6 airbags",
+      "W-HUD (Head-Up Display)"
+    ],
+    "features": {
+      "safety": [
+        "Doble Airbags + Airbags laterales + Airbags cortina",
+        "ABS + EBD",
+        "Sistema de Estabilidad (ESC)",
+        "Control de tracción (TCS)",
+        "FCW + AEB + AEB-P + AEB-Bicicleta",
+        "LDW + LKA (asistencia de carril)",
+        "BSW (detección punto ciego)",
+        "RCW (advertencia colisión trasera)",
+        "DOW (advertencia puerta abierta)",
+        "Asistente de subida (HHC) y descenso (HDC)",
+        "Sistema prevención vuelcos (RMI)",
+        "TPMS (control presión neumáticos)",
+        "Cámara 360°",
+        "Radar estacionamiento delantero y trasero",
+        "Sistema estacionamiento asistido",
+        "Anclajes ISOFIX"
+      ],
+      "comfort": [
+        "Climatizador automático bizona",
+        "Asientos delanteros calefaccionados",
+        "Asiento conductor eléctrico 6 posiciones",
+        "Asientos traseros plegables 6:4",
+        "Techo panorámico eléctrico",
+        "Espejo retrovisor electrónico antideslumbrante",
+        "Ventanas eléctricas x4 (one touch + anti-trapping)",
+        "Salida de aire 2.ª fila",
+        "Luz de cortesía pasajeros traseros"
+      ],
+      "technology": [
+        "Pantalla táctil 12.3\" Apple CarPlay + Android Auto",
+        "Computadora multifunción 7\" LCD",
+        "W-HUD (pantalla visualización frontal)",
+        "Carga inalámbrica celulares",
+        "Puertos USB x4 (delanteros x2 + traseros x2)",
+        "6 altavoces",
+        "Sistema manos libres Bluetooth",
+        "Volumen ajustable según velocidad"
+      ],
+      "driving": [
+        "Selector modos conducción (STD, ECO, Sport, Snow)",
+        "Modo dirección (Sport, Comfort, Leve)",
+        "Crucero adaptativo ACC + TJA",
+        "IACC (gestión velocidad inteligente)",
+        "Reconocimiento señales tráfico",
+        "Levas al volante (Paddle Shifters)",
+        "Asistencia frenado en detención (Autohold)",
+        "Freno estacionamiento electrónico (EPB)",
+        "Botón arranque Start & Stop",
+        "Llave inteligente"
+      ]
+    },
+    "images": [],
+    "isAvailable": true
+  },
+  {
+    "brand": "haval",
+    "brandDisplay": "Haval",
+    "model": "Jolion PRO HEV",
+    "slug": "haval-jolion-pro-hev",
+    "tagline": "SUV híbrido eficiente con 190 HP combinados y 27 km/L en ciudad",
+    "category": "suv",
+    "type": "hybrid",
+    "year": 2025,
+    "priceUsd": null,
+    "specs": {
+      "engine": "Motor combustión 4 cil 16V + Motor eléctrico",
+      "power": "190 HP combinados (94 CV ICE + 154 CV EV)",
+      "torque": "375 Nm combinados (125 Nm ICE + 250 Nm EV)",
+      "transmission": "Transmisión híbrida DHT",
+      "traction": "2WD",
+      "fuelConsumption": "19.6 km/L (mixto), 27 km/L (ciudad), 16.6 km/L (carretera)",
+      "battery": "Litio 1.67 kWh"
+    },
+    "highlightFeatures": [
+      "Rendimiento 27 km/L en ciudad",
+      "190 HP y 375 Nm de potencia combinada",
+      "Pantalla 12.3\" Apple CarPlay + Android Auto",
+      "Cámara 360° + Estacionamiento asistido",
+      "Frenado autónomo de emergencia AEB"
+    ],
+    "features": {
+      "safety": [
+        "6 Airbags",
+        "Frenado autónomo emergencia con detección vehículos, peatones y ciclistas",
+        "Asistentes de carril LDW + LKA",
+        "Control crucero adaptativo ACC",
+        "Asistente punto ciego BSW",
+        "Cámara 360°",
+        "Sensores estacionamiento delanteros y traseros",
+        "Sistema estacionamiento asistido"
+      ],
+      "comfort": [
+        "Climatizador",
+        "Panel instrumentos digital 7\"",
+        "Asientos confortables"
+      ],
+      "technology": [
+        "Pantalla 12.3\" touchscreen",
+        "Apple CarPlay + Android Auto",
+        "Híbrido DHT (recarga automática)",
+        "Panel instrumentos digital 7\""
+      ],
+      "driving": [
+        "Transmisión híbrida suave y precisa",
+        "Sistema DHT optimización energética",
+        "Modo eco para máxima eficiencia"
+      ]
+    },
+    "images": [],
+    "isAvailable": true
+  },
+  {
+    "brand": "jmev",
+    "brandDisplay": "JMEV",
+    "model": "ORA 03",
+    "slug": "ora-03",
+    "tagline": "Hatchback eléctrico deportivo con 310 km de autonomía",
+    "category": "hatchback",
+    "type": "electric",
+    "year": 2025,
+    "priceUsd": null,
+    "specs": {
+      "engine": "Motor eléctrico",
+      "power": "170 HP",
+      "torque": "250 Nm",
+      "transmission": "Automática eléctrica",
+      "traction": "FWD",
+      "autonomy": "310 km WLTP",
+      "chargingPort": "CCS2 (tipo europea)",
+      "fastCharging": "20% a 80% en 36 minutos (CC)",
+      "topSpeed": "160 km/h",
+      "acceleration": "0-100 km/h en 8.2 segundos"
+    },
+    "highlightFeatures": [
+      "310 km de autonomía WLTP",
+      "Pantallas duales 10.25\" Apple CarPlay + Android Auto wireless",
+      "Cámara 360° + Estacionamiento asistido",
+      "7 Airbags - El eléctrico más seguro del segmento",
+      "Carga rápida: 20-80% en 36 minutos"
+    ],
+    "features": {
+      "safety": [
+        "7 Airbags",
+        "Más de 20 tecnologías ADAS",
+        "Control Electrónico Estabilidad ESP",
+        "Sistema Antivuelco RMI",
+        "Frenado Automático Emergencia AEB",
+        "Cámara 360°",
+        "Asistente Cambio y Mantenimiento Carril LCA/LKA",
+        "Control Crucero Adaptativo ACC"
+      ],
+      "comfort": [
+        "Climatizador",
+        "Ajuste eléctrico asientos",
+        "Cargador inalámbrico celulares"
+      ],
+      "technology": [
+        "Pantallas duales 10.25\"",
+        "Apple CarPlay + Android Auto wireless",
+        "Cámara 360°",
+        "Sistema Estacionamiento Asistido",
+        "Selector Marchas Inteligente",
+        "Cargador inalámbrico dispositivos móviles",
+        "Sistema sonido 6 parlantes"
+      ],
+      "driving": [
+        "Aceleración 0-100 km/h en 8.2s",
+        "Velocidad máxima 160 km/h",
+        "Conducción 100% eléctrica",
+        "Selector marchas inteligente"
+      ]
+    },
+    "images": [],
+    "isAvailable": true
+  },
+  {
+    "brand": "haval",
+    "brandDisplay": "Haval",
+    "model": "H6 GT",
+    "slug": "haval-h6-gt",
+    "tagline": "SUV deportivo premium 4WD con 201 HP y tecnología superior",
+    "category": "suv",
+    "type": "combustion",
+    "year": 2025,
+    "priceUsd": null,
+    "specs": {
+      "engine": "2.0L Turbo 4 cilindros 16 válvulas",
+      "power": "201 HP @ 6.000-6.300 RPM",
+      "torque": "320 Nm @ 1.500-4.400 RPM",
+      "transmission": "Automática DCT 7 vel.",
+      "traction": "4WD",
+      "dimensions": {
+        "length": 4653,
+        "width": 1886,
+        "height": 1730
+      },
+      "wheelbase": 2738,
+      "groundClearance": 163,
+      "fuelTank": 62,
+      "weight": 2075,
+      "tires": "225/55 R19"
+    },
+    "highlightFeatures": [
+      "Motor 2.0L Turbo 201 HP + tracción 4WD",
+      "Pantalla 12.3\" + W-HUD proyectado en parabrisas",
+      "Techo panorámico eléctrico + Asientos ventilados",
+      "Cámara 360° + Estacionamiento automático",
+      "8 altavoces DTS + Infinity Sound System"
+    ],
+    "features": {
+      "safety": [
+        "Doble Airbags + Airbags Laterales + Airbags Cortina",
+        "ESP + TCS + RMI + BA",
+        "HDC (Control descenso) + HHC (Asistencia arranque)",
+        "TPMS",
+        "EBS (Frenado emergencia)",
+        "Cámara 360°",
+        "Estacionamiento automático",
+        "ACC + Stop & Go",
+        "FCW + AEB",
+        "LDW + LKA",
+        "TSR (Reconocimiento señales)",
+        "Detección punto ciego + RCW + DOW",
+        "TJA + ICA",
+        "ISOFIX",
+        "SCM (Mitigación colisión secundaria)"
+      ],
+      "comfort": [
+        "Climatizador Automático Bizona",
+        "Asientos cuero calefaccionados y ventilados",
+        "Asiento conductor eléctrico 6 pos + ajuste lumbar",
+        "Asiento pasajero eléctrico 4 pos",
+        "Techo panorámico eléctrico",
+        "AQS (gestión calidad aire) + Purificador aniones",
+        "Carga inalámbrica celulares",
+        "Asientos traseros plegables 6:4"
+      ],
+      "technology": [
+        "Pantalla táctil 10.25\"",
+        "Pantalla instrumentos 12.3\"",
+        "W-HUD (tablero reflejado en parabrisas)",
+        "Apple CarPlay + Android Auto",
+        "8 altavoces + DTS",
+        "Bluetooth manos libres",
+        "USB frontal y trasero",
+        "Volumen ajustable según velocidad"
+      ],
+      "driving": [
+        "Tracción 4WD",
+        "Paddle Shifters (levas al volante)",
+        "Parada/arranque automático",
+        "Freno mano electrónico",
+        "Volante multifunción cuero",
+        "Entrada sin llave + Start & Stop",
+        "Sistema localización automóvil"
+      ]
+    },
+    "images": [],
+    "isAvailable": true
+  },
+  {
+    "brand": "haval",
+    "brandDisplay": "Haval",
+    "model": "H6 HEV",
+    "slug": "haval-h6-hev",
+    "tagline": "SUV híbrido premium con 243 HP y consumo de solo 18.4 km/L",
+    "category": "suv",
+    "type": "hybrid",
+    "year": 2025,
+    "priceUsd": null,
+    "specs": {
+      "engine": "Motor Turbo 1.5T 4 cil 16V + Motor eléctrico",
+      "power": "243 HP combinados (150 CV ICE + 177 CV EV)",
+      "torque": "530 Nm combinados (230 Nm ICE + 300 Nm EV)",
+      "transmission": "Transmisión híbrida DHT",
+      "traction": "2WD",
+      "fuelConsumption": "18.4 km/L (mixto)"
+    },
+    "highlightFeatures": [
+      "243 HP y 530 Nm de potencia combinada",
+      "Consumo 18.4 km/L en uso mixto",
+      "Pantalla 12.3\" Apple CarPlay + Android Auto",
+      "Sistema híbrido DHT autorrecargable",
+      "6 Airbags + ADAS completo"
+    ],
+    "features": {
+      "safety": [
+        "6 Airbags",
+        "Frenado autónomo emergencia con detección vehículos, peatones y ciclistas",
+        "Asistentes carril LDW + LKA",
+        "Control crucero adaptativo ACC",
+        "Asistente punto ciego BSW",
+        "Cámara 360°",
+        "Sensores estacionamiento delanteros y traseros",
+        "Asistencia Estacionamiento Automático"
+      ],
+      "comfort": [
+        "Climatizador",
+        "Asientos premium"
+      ],
+      "technology": [
+        "Pantalla 12.3\"",
+        "Apple CarPlay + Android Auto",
+        "Híbrido DHT (recarga con generador propio o al desacelerar)",
+        "Panel Instrumentos Digital 7\""
+      ],
+      "driving": [
+        "Transmisión híbrida suave y precisa",
+        "Sistema DHT optimización energética",
+        "Modo eco para máxima eficiencia",
+        "Recarga automática sin carga externa"
+      ]
+    },
+    "images": [],
+    "isAvailable": true
+  },
+  {
+    "brand": "haval",
+    "brandDisplay": "Haval",
+    "model": "H6 3ra Generación",
+    "slug": "haval-h6-3gen",
+    "tagline": "SUV tecnológico con motor 2.0L Turbo en versiones 2WD y 4WD",
+    "category": "suv",
+    "type": "combustion",
+    "year": 2025,
+    "priceUsd": null,
+    "specs": {
+      "engine": "2.0L Turbo 4 cilindros 16V",
+      "power": "201 HP @ 6.000-6.300 RPM",
+      "torque": "320 Nm @ 1.500-4.400 RPM",
+      "transmission": "Automática DCT 7 vel.",
+      "traction": "2WD / 4WD",
+      "dimensions": {
+        "length": 4653,
+        "width": 1886,
+        "height": 1730
+      },
+      "wheelbase": 2738,
+      "fuelTank": 62,
+      "tires": "225/55 R19"
+    },
+    "highlightFeatures": [
+      "Motor 2.0L Turbo 201 HP disponible en 2WD y 4WD",
+      "Pantalla 12.3\" + W-HUD proyectado en parabrisas",
+      "Techo panorámico eléctrico + Asientos ventilados",
+      "Cámara 360° + Estacionamiento automático",
+      "Sistema audio 8 altavoces DTS"
+    ],
+    "features": {
+      "safety": [
+        "Doble Airbags + Airbags Laterales + Airbags Cortina",
+        "ESP + TCS + RMI + BA",
+        "HDC + HHC",
+        "TPMS",
+        "EBS",
+        "Cámara 360°",
+        "Estacionamiento automático",
+        "ACC + Stop & Go",
+        "FCW + AEB",
+        "LDW + LKA",
+        "TSR",
+        "Detección punto ciego + RCW + DOW",
+        "TJA + ICA",
+        "ISOFIX"
+      ],
+      "comfort": [
+        "Climatizador Automático Bizona",
+        "Asientos cuero calefaccionados y ventilados",
+        "Asiento conductor eléctrico 6 pos + ajuste lumbar",
+        "Asiento pasajero eléctrico 4 pos",
+        "Techo panorámico eléctrico",
+        "AQS + Purificador aniones",
+        "Carga inalámbrica",
+        "Asientos traseros plegables 6:4"
+      ],
+      "technology": [
+        "Pantalla táctil 10.25\"",
+        "Pantalla instrumentos 12.3\"",
+        "W-HUD",
+        "Apple CarPlay + Android Auto",
+        "8 altavoces DTS",
+        "Bluetooth",
+        "USB frontal y trasero"
+      ],
+      "driving": [
+        "Disponible 2WD y 4WD",
+        "Paddle Shifters",
+        "Parada/arranque automático",
+        "Freno mano electrónico",
+        "Entrada sin llave + Start & Stop"
+      ]
+    },
+    "images": [],
+    "isAvailable": true
+  },
+  {
+    "brand": "gwm",
+    "brandDisplay": "GWM",
+    "model": "Poer Super Luxury",
+    "slug": "gwm-poer",
+    "tagline": "Pickup 4x4 diesel premium con 163 CV y tracción TOD BorgWarner",
+    "category": "pickup",
+    "type": "diesel",
+    "year": 2025,
+    "priceUsd": null,
+    "specs": {
+      "engine": "2.0L Diesel Common Rail VGT",
+      "power": "163 CV",
+      "torque": "400 Nm @ 1.500-2.500 RPM",
+      "transmission": "Automática ZF 8 velocidades",
+      "traction": "4x4 automática TOD BorgWarner",
+      "dimensions": {
+        "length": 5410,
+        "width": 1934,
+        "height": 1886
+      },
+      "wheelbase": 3230,
+      "groundClearance": 227,
+      "cargo": "1.520 x 1.520 x 538 mm",
+      "fuelTank": 80,
+      "weight": 2967,
+      "payload": 975,
+      "tires": "265/60 R18",
+      "attackAngle": 22,
+      "departureAngle": 27
+    },
+    "highlightFeatures": [
+      "Motor diesel 2.0L 163 CV con 400 Nm de torque",
+      "Transmisión automática ZF 8 velocidades",
+      "Tracción 4x4 TOD BorgWarner + Selector 4L",
+      "Bloqueo diferencial trasero electrónico",
+      "3 modos de conducción: STD / ECO / SPORT"
+    ],
+    "features": {
+      "safety": [
+        "Doble Airbag + Airbags laterales + Airbags cortina",
+        "ABS + EBD",
+        "BA (asistente freno)",
+        "ESP (estabilidad)",
+        "TPMS",
+        "Cámara retroceso",
+        "Sensor retroceso",
+        "Cinturones ajustables con pretensor",
+        "Alarma cinturón desabrochado",
+        "Anclaje ISOFIX",
+        "Inmovilizador motor",
+        "Desbloqueo automático tras colisión",
+        "Cierre automático puertas 15 km/h",
+        "Seguro niños puertas traseras"
+      ],
+      "comfort": [
+        "Aire acondicionado automático",
+        "Asientos cuero",
+        "Asiento conductor eléctrico 6 pos",
+        "Asiento acompañante eléctrico 4 pos (Luxury)",
+        "Ventana trasera desempañador",
+        "Ventanas antitrapping",
+        "Parasol con espejo"
+      ],
+      "technology": [
+        "Pantalla multimedia central",
+        "Volante multifunción Audio + Bluetooth + Cruise Control",
+        "6 speakers (Luxury)",
+        "AUX + USB + iPod",
+        "Instrumentos ajustables brillo",
+        "Toma 12V"
+      ],
+      "driving": [
+        "4x4 automática TOD",
+        "Selector 4L",
+        "Bloqueo diferencial trasero electrónico",
+        "3 modos: STD / ECO / SPORT",
+        "Suspensión delantera doble horquilla",
+        "Suspensión trasera ballestas",
+        "Dirección asistida eléctrica",
+        "Chassis reforzado"
+      ]
+    },
+    "images": [],
+    "isAvailable": true
+  },
+  {
+    "brand": "gwm",
+    "brandDisplay": "GWM",
+    "model": "Poer Elite",
+    "slug": "gwm-poer-elite",
+    "tagline": "Pickup 4x4 diesel con 161 HP y tecnología de seguridad avanzada",
+    "category": "pickup",
+    "type": "diesel",
+    "year": 2025,
+    "priceUsd": null,
+    "specs": {
+      "engine": "2.0L Diesel Common Rail VGT 4D20M",
+      "power": "161 HP @ 3.600 RPM",
+      "torque": "400 Nm @ 1.500-2.500 RPM",
+      "transmission": "Manual 6 velocidades",
+      "traction": "4x2 / 4x4",
+      "dimensions": {
+        "length": 5425,
+        "width": 1883,
+        "height": 1882
+      },
+      "wheelbase": 3230,
+      "groundClearance": 227,
+      "cargo": "1.520 x 1.520 x 538 mm",
+      "fuelTank": 80,
+      "weight": 1915,
+      "weightGross": 1990,
+      "payload": 1050,
+      "tires": "245/70 R17"
+    },
+    "highlightFeatures": [
+      "Motor diesel VGT 161 HP con 400 Nm",
+      "Pantalla LED touch 9\" Apple CarPlay + Android Auto",
+      "Cámara lateral punto ciego + Cámara retroceso HD",
+      "Entrada sin llave Keyless + Push Start",
+      "Control descenso HDC + Asistencia arranque HHC"
+    ],
+    "features": {
+      "safety": [
+        "Doble airbag frontal + Airbags laterales",
+        "ABS + EBD",
+        "Mitigación Colisión Secundaria MCS",
+        "Asistencia hidráulica frenado HBA",
+        "Control Estabilidad ESP",
+        "Control Tracción TCS",
+        "Asistente arranque pendiente HHC",
+        "Control descenso HDC",
+        "Cámara lateral punto ciego",
+        "TPMS",
+        "Cámara retroceso HD",
+        "Sensores traseros",
+        "Inmovilizador antirrobo",
+        "Anclajes ISOFIX + seguro niños",
+        "Desbloqueo automático colisión",
+        "Corte combustible colisión"
+      ],
+      "comfort": [
+        "Climatizador",
+        "Tapizado eco cuero",
+        "Asiento conductor eléctrico 6 pos",
+        "Levantavidrios eléctricos (one touch conductor)",
+        "Espejo interior antiencandilamiento",
+        "Asientos traseros rebatibles"
+      ],
+      "technology": [
+        "Pantalla LED touch 9\"",
+        "Apple CarPlay + Android Auto",
+        "Radio BT manos libres MP5",
+        "2x USB frontales + USB en espejo",
+        "Computadora bordo color 3.5\"",
+        "6 parlantes",
+        "Volante multifunción",
+        "Sensor lluvia",
+        "Antena aleta tiburón"
+      ],
+      "driving": [
+        "4x2 / 4x4",
+        "Manual 6 velocidades",
+        "Control velocidad crucero",
+        "Push start + Keyless",
+        "Dirección asistida hidráulica",
+        "Suspensión delantera doble horquilla",
+        "Freno mano mecánico",
+        "Comando regeneración DPF"
+      ]
+    },
+    "images": [],
+    "isAvailable": true
+  },
+  {
+    "brand": "gwm",
+    "brandDisplay": "GWM",
+    "model": "Tank 300",
+    "slug": "gwm-tank-300",
+    "tagline": "SUV 4x4 todoterreno con 217 HP y selector 2H/4H/4L",
+    "category": "suv",
+    "type": "combustion",
+    "year": 2025,
+    "priceUsd": null,
+    "specs": {
+      "engine": "2.0L Turbo",
+      "power": "217 HP",
+      "torque": "380 Nm",
+      "transmission": "Automática",
+      "traction": "4WD con selector 2H/4H/4L",
+      "suspension": "Delantera McPherson, trasera multi-link",
+      "differentials": "Diferenciales de bloqueo"
+    },
+    "highlightFeatures": [
+      "Motor turbo 2.0L con 217 HP y 380 Nm",
+      "Selector tracción 2H/4H/4L para todo terreno",
+      "Pantalla táctil 12.3\" Apple CarPlay + Android Auto",
+      "Sistema audio Infinity: 8 parlantes + subwoofer",
+      "Cámara 360° + Control crucero off-road"
+    ],
+    "features": {
+      "safety": [
+        "6 airbags frontales, laterales y cortina",
+        "ABS + Control tracción + Control estabilidad",
+        "Sistema electrónico antivuelco",
+        "Frenado autónomo emergencia",
+        "Control crucero adaptativo",
+        "Control crucero off-road",
+        "Asistentes carril",
+        "Función alarma exceso velocidad",
+        "Cámara 360°"
+      ],
+      "comfort": [
+        "Climatizador",
+        "Asientos premium"
+      ],
+      "technology": [
+        "Pantalla táctil 12.3\"",
+        "Apple CarPlay + Android Auto",
+        "Bluetooth",
+        "Sistema audio Infinity 8 parlantes + subwoofer",
+        "Sistema Instrumentos Inteligente",
+        "Datos en tiempo real: presión neumáticos, radio giro volante, temperatura",
+        "Cámara 360°"
+      ],
+      "driving": [
+        "Selector electrónico 2H/4H/4L",
+        "2H: tracción trasera (ciudad/ruta)",
+        "4H: tracción 4x4 (tierra/ripio/nieve)",
+        "4L: tracción 4x4 con reductora (off-road extremo)",
+        "Suspensión McPherson + multi-link",
+        "Diferenciales bloqueo",
+        "Capacidad todoterreno superior"
+      ]
+    },
+    "images": [],
+    "isAvailable": true
+  },
+  {
+    "brand": "mitsubishi",
+    "brandDisplay": "Mitsubishi",
+    "model": "L200",
+    "slug": "mitsubishi-l200",
+    "tagline": "Pickup 4x4 legendaria con motor diesel 181 CV y Super Select 4WD-II",
+    "category": "pickup",
+    "type": "diesel",
+    "year": 2025,
+    "priceUsd": null,
+    "specs": {
+      "engine": "4N15 2.4L MIVEC DOHC 4 cil Turbo Diesel",
+      "power": "181 CV @ 3.500 RPM",
+      "torque": "430 Nm (43.9 kg·m) @ 2.500 RPM",
+      "transmission": "Manual 6 vel / Automática 6 vel con modo Sport",
+      "traction": "Super Select 4WD-II (SS4 II)",
+      "dimensions": {
+        "length": 5220,
+        "width": 1815,
+        "height": 1795
+      },
+      "wheelbase": 3000,
+      "groundClearance": 220,
+      "fuelTank": 75,
+      "weight": 1915,
+      "weightGross": 2870,
+      "payload": 955,
+      "tires": "18\"",
+      "attackAngle": 31,
+      "departureAngle": 23,
+      "topSpeed": 179
+    },
+    "highlightFeatures": [
+      "Motor diesel 2.4L 181 CV con 430 Nm de torque",
+      "Sistema Super Select 4WD-II legendario",
+      "7 airbags + ASTC + HAC + DAC + TSA",
+      "Pantalla táctil 7\" con GPS, Apple CarPlay y Android Auto",
+      "Asientos de cuero + Climatizador bizona"
+    ],
+    "features": {
+      "safety": [
+        "7 airbags (frontal + laterales + cortina + rodilla conductor)",
+        "ABS + EBD",
+        "BA (asistente frenado)",
+        "ASTC (control estabilidad y tracción)",
+        "HAC (asistencia arranque pendiente)",
+        "DAC (control descenso)",
+        "TSA (control balanceo tráiler)",
+        "Luz frenado emergencia",
+        "Carrocería RISE",
+        "Inmovilizador motor",
+        "ISOFIX",
+        "Cámara retroceso pantalla 7\"",
+        "Faros LED con nivelación automática",
+        "Espejo retrovisor atenuación automática"
+      ],
+      "comfort": [
+        "Climatizador automático Bizona",
+        "Tapizados cuero",
+        "Asiento conductor accionamiento eléctrico",
+        "Salida aire parte trasera",
+        "Levantavidrios eléctricos 4 puertas",
+        "One-touch ventanilla conductor + anti-trapping",
+        "Apoyabrazos central trasero con posavasos",
+        "Parasol con espejo tocador y luz"
+      ],
+      "technology": [
+        "Pantalla táctil multimedia CLARION 7\"",
+        "Navegador GPS con MirrorLink",
+        "Apple CarPlay + Android Auto",
+        "Bluetooth + USB",
+        "6 parlantes + 2 tweeters",
+        "Display multifunción completo",
+        "Toma 12V consola central",
+        "Start & Stop Engine + Keyless"
+      ],
+      "driving": [
+        "Super Select 4WD-II",
+        "Control velocidad crucero",
+        "Volante multifunción 4 rayos cuero",
+        "Paddle shifters (AT)",
+        "Regulación altura y profundidad dirección",
+        "Suspensión delantera doble brazo triangular",
+        "Suspensión trasera ballestas",
+        "Frenos delanteros discos ventilados 16\""
+      ]
+    },
+    "images": [],
+    "isAvailable": true
+  },
+  {
+    "brand": "mitsubishi",
+    "brandDisplay": "Mitsubishi",
+    "model": "Outlander",
+    "slug": "mitsubishi-outlander",
+    "tagline": "SUV 7 asientos premium con S-AWC y 184 CV de potencia",
+    "category": "suv",
+    "type": "combustion",
+    "year": 2025,
+    "priceUsd": null,
+    "specs": {
+      "engine": "2.5L DOHC 4 cilindros inyección directa",
+      "power": "184 CV @ 6.000 RPM",
+      "torque": "244 Nm @ 3.600 RPM",
+      "transmission": "CVT",
+      "traction": "S-AWC (Super All Wheel Control) + AYC",
+      "drivingModes": "Normal / Eco / Tierra / Asfalto / Barro / Nieve",
+      "dimensions": {
+        "length": 4710,
+        "width": 1897,
+        "height": 1745
+      },
+      "wheelbase": 2706,
+      "groundClearance": 210,
+      "weight": 1690,
+      "weightGross": 2355,
+      "trunk": 331,
+      "seats": 7,
+      "tires": "255/45 R20",
+      "topSpeed": 198,
+      "acceleration": "0-100 km/h en 10.9s"
+    },
+    "highlightFeatures": [
+      "7 asientos con 3ra fila + Respaldo abatible 40:20:40",
+      "S-AWC + AYC + 6 modos de conducción",
+      "Display conductor 12.3\" + Pantalla 9\" GPS CarPlay/Android Auto",
+      "Techo solar panorámico eléctrico",
+      "Cámara 360° + Sensores 4 + Portón eléctrico manos libres"
+    ],
+    "features": {
+      "safety": [
+        "7 airbags (frontal + laterales + cortina + rodilla)",
+        "ABS + EBD",
+        "ASC (estabilidad) + TCL (tracción)",
+        "HSA (asistente arranque)",
+        "Mitigación colisión frontal",
+        "Advertencia cambio carril",
+        "Asistente cambio carril",
+        "Advertencia punto ciego BSW",
+        "Alerta tráfico cruzado trasero RCTA",
+        "Alerta atención conductor",
+        "Luces altas automáticas AHB",
+        "Cámara 360°",
+        "Sensores estacionamiento delantero y trasero",
+        "Carrocería RISE",
+        "ISOFIX",
+        "Sistema alarma volumétrica",
+        "Inmovilizador motor"
+      ],
+      "comfort": [
+        "7 asientos tapizados cuero",
+        "Climatizador automático 3 zonas",
+        "Asientos delanteros calefaccionados",
+        "Asiento conductor eléctrico 8 pos con memoria",
+        "Ajuste lumbar eléctrico conductor",
+        "Techo solar panorámico eléctrico",
+        "Levantavidrios eléctricos x4 + anti-trapping",
+        "Respaldo trasero abatible 40:20:40",
+        "Asientos traseros con luz lectura",
+        "Posavasos consola + 2ª fila"
+      ],
+      "technology": [
+        "Display multifunción conductor 12.3\"",
+        "Pantalla 9\" GPS Bluetooth",
+        "Apple CarPlay + Android Auto",
+        "Cargador inalámbrico",
+        "USB Type-A y Type-C delante y atrás",
+        "Tomas 12V delantero + baúl",
+        "Volante multifunción cuero",
+        "Espejo retrovisor fotocromático",
+        "Espejos laterales con memoria posición"
+      ],
+      "driving": [
+        "S-AWC + Active Yaw Control",
+        "6 modos: Normal/Eco/Tierra/Asfalto/Barro/Nieve",
+        "Transmisión CVT",
+        "Control velocidad crucero",
+        "Paddle shifters",
+        "Freno estacionamiento eléctrico + Auto-Hold",
+        "Start & Stop + Keyless",
+        "Suspensión McPherson + Multilink",
+        "Llantas aluminio 20\" bitono",
+        "Dirección asistida eléctrica"
+      ]
+    },
+    "images": [],
+    "isAvailable": true
+  },
+  {
+    "brand": "changan",
+    "brandDisplay": "Changan",
+    "model": "CS55 Plus PHEV",
+    "slug": "changan-cs55-plus-phev",
+    "tagline": "SUV híbrido enchufable autorrecargable con 1215 km de autonomía combinada",
+    "category": "suv",
+    "type": "hybrid-plugin",
+    "year": 2025,
+    "priceUsd": 32000,
+    "specs": {
+      "autonomy": "1215 km CLTC (combinada)",
+      "transmission": "Automática",
+      "traction": "FWD"
+    },
+    "highlightFeatures": [
+      "Autonomía combinada 1215 km CLTC",
+      "Tecnología híbrida enchufable autorrecargable",
+      "Diseño moderno y espacioso",
+      "SUV familiar con máximo confort",
+      "Precio competitivo USD 32.000"
+    ],
+    "features": {
+      "safety": [
+        "Airbags múltiples",
+        "Control de estabilidad",
+        "Asistencias de conducción"
+      ],
+      "comfort": [
+        "Climatizador",
+        "Asientos confortables",
+        "Amplio espacio interior"
+      ],
+      "technology": [
+        "Sistema multimedia",
+        "Conectividad avanzada",
+        "Panel de instrumentos digital"
+      ],
+      "driving": [
+        "Modo híbrido enchufable",
+        "Sistema autorrecargable",
+        "Conducción eficiente"
+      ]
+    },
+    "images": [],
+    "isAvailable": true
+  }
+]
